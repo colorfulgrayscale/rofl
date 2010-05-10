@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Package xmi:version="2.1" xmlns:xmi="http://schema.omg.org/spec/XMI/2.1" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML" xmi:id="_jL-AkBgTEd-_Fvrwu9Y6XA" name="BlueManageRestaurant">
+  <elementImport xmi:id="_jMu1kBgTEd-_Fvrwu9Y6XA">
+    <importedElement xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+  </elementImport>
+  <elementImport xmi:id="_jMu1kRgTEd-_Fvrwu9Y6XA">
+    <importedElement xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+  </elementImport>
+  <elementImport xmi:id="_jMu1khgTEd-_Fvrwu9Y6XA">
+    <importedElement xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#UnlimitedNatural"/>
+  </elementImport>
+  <elementImport xmi:id="_jMu1kxgTEd-_Fvrwu9Y6XA">
+    <importedElement xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+  </elementImport>
+  <packagedElement xmi:type="uml:Component" xmi:id="_lpek0BgTEd-_Fvrwu9Y6XA" name="Manage Restaurant" useCase="_uZtEUBgTEd-_Fvrwu9Y6XA _yLtWUBgTEd-_Fvrwu9Y6XA _bZz2YBgUEd-_Fvrwu9Y6XA">
+    <ownedUseCase xmi:id="_uZtEUBgTEd-_Fvrwu9Y6XA" name="Create Profiles" subject="_lpek0BgTEd-_Fvrwu9Y6XA"/>
+    <ownedUseCase xmi:id="_yLtWUBgTEd-_Fvrwu9Y6XA" name="Assign Waiters to Tables" subject="_lpek0BgTEd-_Fvrwu9Y6XA"/>
+    <ownedUseCase xmi:id="_bZz2YBgUEd-_Fvrwu9Y6XA" name="Modify Profiles" subject="_lpek0BgTEd-_Fvrwu9Y6XA"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Actor" xmi:id="_sNZk0BgTEd-_Fvrwu9Y6XA" name="Manager"/>
+  <packagedElement xmi:type="uml:Association" xmi:id="_ngeaUEGiEd-fpv8wsHHggg" memberEnd="_ngqnkEGiEd-fpv8wsHHggg _ngrOoUGiEd-fpv8wsHHggg" navigableOwnedEnd="_ngrOoUGiEd-fpv8wsHHggg">
+    <ownedEnd xmi:id="_ngqnkEGiEd-fpv8wsHHggg" name="src" type="_sNZk0BgTEd-_Fvrwu9Y6XA" association="_ngeaUEGiEd-fpv8wsHHggg">
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_ngrOoEGiEd-fpv8wsHHggg" value="1"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_ngqnkUGiEd-fpv8wsHHggg" value="1"/>
+    </ownedEnd>
+    <ownedEnd xmi:id="_ngrOoUGiEd-fpv8wsHHggg" name="dst" type="_uZtEUBgTEd-_Fvrwu9Y6XA" association="_ngeaUEGiEd-fpv8wsHHggg">
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_ngrOo0GiEd-fpv8wsHHggg" value="1"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_ngrOokGiEd-fpv8wsHHggg" value="1"/>
+    </ownedEnd>
+  </packagedElement>
+</uml:Package>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML" xmlns:uml2tools.notation="http://www.eclipse.org/mdt/uml2tools/gmf/notation/ext/2008" xmi:id="_jMu1lBgTEd-_Fvrwu9Y6XA" type="UMLUseCase" name="BlueManageRestaurant.umlusc" measurementUnit="Pixel">
+  <children xmi:type="notation:Shape" xmi:id="_jmv4EBgTEd-_Fvrwu9Y6XA" type="2001" fontName="Segoe UI">
+    <children xmi:type="notation:DecorationNode" xmi:id="_jmv4EhgTEd-_Fvrwu9Y6XA" type="5001"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_jmv4ExgTEd-_Fvrwu9Y6XA" type="5016"/>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_jmv4FBgTEd-_Fvrwu9Y6XA" type="7001" collapsed="true">
+      <styles xmi:type="notation:SortingStyle" xmi:id="_jmv4FRgTEd-_Fvrwu9Y6XA"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_jmv4FhgTEd-_Fvrwu9Y6XA"/>
+      <styles xmi:type="notation:CanonicalStyle" xmi:id="_jmv4FxgTEd-_Fvrwu9Y6XA"/>
+    </children>
+    <element xmi:type="uml:Package" href="BlueManageRestaurant.uml#_jL-AkBgTEd-_Fvrwu9Y6XA"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_jmv4ERgTEd-_Fvrwu9Y6XA"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_lpqyEBgTEd-_Fvrwu9Y6XA" type="2006">
+    <children xmi:type="notation:DecorationNode" xmi:id="_lprZIBgTEd-_Fvrwu9Y6XA" type="5007"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_lprZIRgTEd-_Fvrwu9Y6XA" type="5014"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_lprZIhgTEd-_Fvrwu9Y6XA" type="7004">
+      <children xmi:type="notation:Shape" xmi:id="_uZ3cYBgTEd-_Fvrwu9Y6XA" type="3004" fontName="Segoe UI">
+        <children xmi:type="notation:DecorationNode" xmi:id="_x9rhYhgTEd-_Fvrwu9Y6XA" type="5006">
+          <styles xmi:type="notation:FontStyle" xmi:id="_x9tWkBgTEd-_Fvrwu9Y6XA" bold="true"/>
+        </children>
+        <children xmi:type="notation:BasicCompartment" xmi:id="_x9rhYxgTEd-_Fvrwu9Y6XA" type="7005">
+          <styles xmi:type="notation:TitleStyle" xmi:id="_x9rhZBgTEd-_Fvrwu9Y6XA" showTitle="true"/>
+          <styles xmi:type="notation:SortingStyle" xmi:id="_x9rhZRgTEd-_Fvrwu9Y6XA"/>
+          <styles xmi:type="notation:FilteringStyle" xmi:id="_x9rhZhgTEd-_Fvrwu9Y6XA"/>
+          <styles xmi:type="notation:CanonicalStyle" xmi:id="_x9rhZxgTEd-_Fvrwu9Y6XA"/>
+        </children>
+        <element xmi:type="uml:UseCase" href="BlueManageRestaurant.uml#_uZtEUBgTEd-_Fvrwu9Y6XA"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_uZ3cYRgTEd-_Fvrwu9Y6XA" x="19" y="2"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_yL3uYBgTEd-_Fvrwu9Y6XA" type="3004" fontName="Segoe UI">
+        <children xmi:type="notation:DecorationNode" xmi:id="_8IZo8hgTEd-_Fvrwu9Y6XA" type="5006">
+          <styles xmi:type="notation:FontStyle" xmi:id="_8IbeIBgTEd-_Fvrwu9Y6XA" bold="true"/>
+        </children>
+        <children xmi:type="notation:BasicCompartment" xmi:id="_8IZo8xgTEd-_Fvrwu9Y6XA" type="7005">
+          <styles xmi:type="notation:TitleStyle" xmi:id="_8IZo9BgTEd-_Fvrwu9Y6XA" showTitle="true"/>
+          <styles xmi:type="notation:SortingStyle" xmi:id="_8IZo9RgTEd-_Fvrwu9Y6XA"/>
+          <styles xmi:type="notation:FilteringStyle" xmi:id="_8IZo9hgTEd-_Fvrwu9Y6XA"/>
+          <styles xmi:type="notation:CanonicalStyle" xmi:id="_8IZo9xgTEd-_Fvrwu9Y6XA"/>
+        </children>
+        <element xmi:type="uml:UseCase" href="BlueManageRestaurant.uml#_yLtWUBgTEd-_Fvrwu9Y6XA"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_yL3uYRgTEd-_Fvrwu9Y6XA" x="1" y="92"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_bZ-1gBgUEd-_Fvrwu9Y6XA" type="3004" fontName="Segoe UI">
+        <children xmi:type="notation:DecorationNode" xmi:id="_clIaAhgUEd-_Fvrwu9Y6XA" type="5006">
+          <styles xmi:type="notation:FontStyle" xmi:id="_clKPMBgUEd-_Fvrwu9Y6XA" bold="true"/>
+        </children>
+        <children xmi:type="notation:BasicCompartment" xmi:id="_clIaAxgUEd-_Fvrwu9Y6XA" type="7005">
+          <styles xmi:type="notation:TitleStyle" xmi:id="_clIaBBgUEd-_Fvrwu9Y6XA" showTitle="true"/>
+          <styles xmi:type="notation:SortingStyle" xmi:id="_clIaBRgUEd-_Fvrwu9Y6XA"/>
+          <styles xmi:type="notation:FilteringStyle" xmi:id="_clIaBhgUEd-_Fvrwu9Y6XA"/>
+          <styles xmi:type="notation:CanonicalStyle" xmi:id="_clJBEBgUEd-_Fvrwu9Y6XA"/>
+        </children>
+        <element xmi:type="uml:UseCase" href="BlueManageRestaurant.uml#_bZz2YBgUEd-_Fvrwu9Y6XA"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bZ-1gRgUEd-_Fvrwu9Y6XA" x="199" y="2"/>
+      </children>
+      <styles xmi:type="notation:CanonicalStyle" xmi:id="_lprZIxgTEd-_Fvrwu9Y6XA"/>
+    </children>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_lpqyERgTEd-_Fvrwu9Y6XA"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_lpqyEhgTEd-_Fvrwu9Y6XA" fontName="Segoe UI"/>
+    <styles xmi:type="notation:LineStyle" xmi:id="_lpqyExgTEd-_Fvrwu9Y6XA"/>
+    <element xmi:type="uml:Component" href="BlueManageRestaurant.uml#_lpek0BgTEd-_Fvrwu9Y6XA"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_lpqyFBgTEd-_Fvrwu9Y6XA" x="264" y="12" width="361" height="337"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_sNj84BgTEd-_Fvrwu9Y6XA" type="2002" fontName="Segoe UI">
+    <children xmi:type="notation:DecorationNode" xmi:id="_sNkj8BgTEd-_Fvrwu9Y6XA" type="5002">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_sNkj8RgTEd-_Fvrwu9Y6XA" y="5"/>
+    </children>
+    <element xmi:type="uml:Actor" href="BlueManageRestaurant.uml#_sNZk0BgTEd-_Fvrwu9Y6XA"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_sNj84RgTEd-_Fvrwu9Y6XA" x="192" y="144"/>
+  </children>
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_jMu1lRgTEd-_Fvrwu9Y6XA"/>
+  <styles xmi:type="uml2tools.notation:U2TDiagramCanonicalStyle" xmi:id="_jMu1lhgTEd-_Fvrwu9Y6XA"/>
+  <element xmi:type="uml:Package" href="BlueManageRestaurant.uml#_jL-AkBgTEd-_Fvrwu9Y6XA"/>
+  <edges xmi:type="notation:Edge" xmi:id="_ni74cEGiEd-fpv8wsHHggg" type="4004" source="_sNj84BgTEd-_Fvrwu9Y6XA" target="_uZ3cYBgTEd-_Fvrwu9Y6XA">
+    <children xmi:type="notation:DecorationNode" xmi:id="_ni8fgEGiEd-fpv8wsHHggg" type="6003">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_ni8fgUGiEd-fpv8wsHHggg" y="15"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_ni8fgkGiEd-fpv8wsHHggg" type="6004">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_ni8fg0GiEd-fpv8wsHHggg" y="15"/>
+    </children>
+    <styles xmi:type="notation:RoutingStyle" xmi:id="_ni74cUGiEd-fpv8wsHHggg"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_ni74ckGiEd-fpv8wsHHggg" fontName="Segoe UI"/>
+    <element xmi:type="uml:Association" href="BlueManageRestaurant.uml#_ngeaUEGiEd-fpv8wsHHggg"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_ni74c0GiEd-fpv8wsHHggg" points="[15, -9, -141, 69]$[81, -63, -75, 15]"/>
+  </edges>
+</notation:Diagram>
